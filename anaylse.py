@@ -54,3 +54,10 @@ class ArticleAnalyse:
 
     def db_check(self,w):
         return dbapi.getword(w)
+
+def test():
+    '''test the local file'''
+    pass
+
+if __name__ == '__main__':
+    test()
