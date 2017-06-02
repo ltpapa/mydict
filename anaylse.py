@@ -3,7 +3,7 @@
 import dbapi
 import re
 
-class ArticleAnalyse:
+class Analyse:
     '''article analyse'''
     def __init__(self,article):
         self.article = article
